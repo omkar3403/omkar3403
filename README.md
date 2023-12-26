@@ -9,7 +9,7 @@ Student
 I love code!! currently pursuing web development
 
 *   🌍  I'm based in India
-*   ✉️  You can contact me at [omkar\_sahu@outlook.com](mailto:omkar_sahu@outlook.com)
+*   ✉️  You can contact me at [omkarsahu.dev@gmail.com](mailto:omkarsahu.dev@gmail.com)
 *   🧠  I'm learning HTML, CSS, Javascript
 *   ⚡  I'm always in search of new technologies to test and learn
 
