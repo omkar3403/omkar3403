@@ -10,7 +10,7 @@ I love code!! currently pursuing web development
 
 <!-- *   🌍  I'm based in India -->
 *   ✉️  You can contact me at [omkarsahu.dev@gmail.com](mailto:omkarsahu.dev@gmail.com)
-*   🧠  I'm learning HTML, CSS, Javascript
+*   🧠  I'm learning HTML, CSS, Javascript, Java, SQL
 *   ⚡  I'm always in search of new technologies to test and learn
 
 ### Skills 
